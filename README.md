@@ -4,6 +4,8 @@
 
 Players are controlling the spaceships using arrow and WASD keys, trying to score a goal. One game lasts 2 minutes, then the winner is announced.
 
+## Credits
+
 8-Bit Sfx
 https://assetstore.unity.com/packages/audio/sound-fx/8-bit-sfx-32831
 
