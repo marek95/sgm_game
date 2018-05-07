@@ -1,6 +1,6 @@
 # Space Ball
 
-##### Space-themed football-like game developed in Unity.
+#### Space-themed football-like game developed in Unity.
 
 Players are controlling the spaceships using arrow and WASD keys, trying to score a goal. One game lasts 2 minutes, then the winner is announced.
 
